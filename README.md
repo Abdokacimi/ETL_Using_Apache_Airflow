@@ -12,3 +12,9 @@ In this assignment you will author an Apache Airflow DAG that will:
 * Extract data from a fixed width file
 * Transform the data
 * Load the transformed data into the staging area
+
+
+## Results
+
+![dag_runs](https://user-images.githubusercontent.com/44294643/144689518-89079cb3-dadd-4d54-9cdb-21031a006a91.PNG)
+
