@@ -18,4 +18,3 @@ In this assignment you will author an Apache Airflow DAG that will:
 
 ![dag_runs](https://user-images.githubusercontent.com/44294643/144689663-be4f78d8-1d61-49dd-a850-3366f42be4ab.PNG)
 
-
